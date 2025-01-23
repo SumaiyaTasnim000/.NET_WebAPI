@@ -1,0 +1,409 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\10th Sem\\.NET\\BookBorrow\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97A25D85-F3FB-4DF8-A525-13629F66F062}|BLL\\BLL.csproj|E:\\10th Sem\\.NET\\BookBorrow\\bll\\services\\borrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A25D85-F3FB-4DF8-A525-13629F66F062}|BLL\\BLL.csproj|solutionrelative:bll\\services\\borrowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A25D85-F3FB-4DF8-A525-13629F66F062}|BLL\\BLL.csproj|E:\\10th Sem\\.NET\\BookBorrow\\bll\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A25D85-F3FB-4DF8-A525-13629F66F062}|BLL\\BLL.csproj|solutionrelative:bll\\services\\booksservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|e:\\10th sem\\.net\\bookborrow\\dal\\repos\\booksrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\booksrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|e:\\10th sem\\.net\\bookborrow\\dal\\repos\\borrowrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\borrowrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|E:\\10th Sem\\.NET\\BookBorrow\\dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|solutionrelative:dal\\interfaces\\irepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|E:\\10th Sem\\.NET\\BookBorrow\\dal\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|E:\\10th Sem\\.NET\\BookBorrow\\dal\\ef\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\books.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|E:\\10th Sem\\.NET\\BookBorrow\\dal\\ef\\bookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\bookscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|e:\\10th sem\\.net\\bookborrow\\dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|solutionrelative:dal\\repos\\userrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A25D85-F3FB-4DF8-A525-13629F66F062}|BLL\\BLL.csproj|e:\\10th sem\\.net\\bookborrow\\bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A25D85-F3FB-4DF8-A525-13629F66F062}|BLL\\BLL.csproj|solutionrelative:bll\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A25D85-F3FB-4DF8-A525-13629F66F062}|BLL\\BLL.csproj|E:\\10th Sem\\.NET\\BookBorrow\\bll\\dtos\\booksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A25D85-F3FB-4DF8-A525-13629F66F062}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\booksdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A25D85-F3FB-4DF8-A525-13629F66F062}|BLL\\BLL.csproj|E:\\10th Sem\\.NET\\BookBorrow\\bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A25D85-F3FB-4DF8-A525-13629F66F062}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FBE216-3CBF-4D70-8AF8-3CD2E73964ED}|BookBorrow\\BookBorrow.csproj|E:\\10th Sem\\.NET\\BookBorrow\\bookborrow\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4FBE216-3CBF-4D70-8AF8-3CD2E73964ED}|BookBorrow\\BookBorrow.csproj|solutionrelative:bookborrow\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FBE216-3CBF-4D70-8AF8-3CD2E73964ED}|BookBorrow\\BookBorrow.csproj|E:\\10th Sem\\.NET\\BookBorrow\\bookborrow\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4FBE216-3CBF-4D70-8AF8-3CD2E73964ED}|BookBorrow\\BookBorrow.csproj|solutionrelative:bookborrow\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FBE216-3CBF-4D70-8AF8-3CD2E73964ED}|BookBorrow\\BookBorrow.csproj|E:\\10th Sem\\.NET\\BookBorrow\\bookborrow\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4FBE216-3CBF-4D70-8AF8-3CD2E73964ED}|BookBorrow\\BookBorrow.csproj|solutionrelative:bookborrow\\controllers\\borrowcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97A25D85-F3FB-4DF8-A525-13629F66F062}|BLL\\BLL.csproj|E:\\10th Sem\\.NET\\BookBorrow\\bll\\dtos\\borrowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97A25D85-F3FB-4DF8-A525-13629F66F062}|BLL\\BLL.csproj|solutionrelative:bll\\dtos\\borrowdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|E:\\10th Sem\\.NET\\BookBorrow\\dal\\ef\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|solutionrelative:dal\\ef\\borrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|E:\\10th Sem\\.NET\\BookBorrow\\dal\\migrations\\202501211517261_booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501211517261_booklibrary.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|E:\\10th Sem\\.NET\\BookBorrow\\dal\\migrations\\202501211434342_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501211434342_book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|E:\\10th Sem\\.NET\\BookBorrow\\dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|solutionrelative:dal\\dataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4FBE216-3CBF-4D70-8AF8-3CD2E73964ED}|BookBorrow\\BookBorrow.csproj|E:\\10th Sem\\.NET\\BookBorrow\\bookborrow\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A4FBE216-3CBF-4D70-8AF8-3CD2E73964ED}|BookBorrow\\BookBorrow.csproj|solutionrelative:bookborrow\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|E:\\10th Sem\\.NET\\BookBorrow\\dal\\migrations\\202501211050103_bookborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\202501211050103_bookborrow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|E:\\10th Sem\\.NET\\BookBorrow\\dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86F57E4B-F2D7-4316-BEDF-88FD1756208B}|DAL\\DAL.csproj|solutionrelative:dal\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserRepo.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\Repos\\UserRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\UserRepo.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\Repos\\UserRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\UserRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T06:02:28.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksRepo.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\Repos\\BooksRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\BooksRepo.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\Repos\\BooksRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\BooksRepo.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:59:42.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\BLL\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\UserService.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\BLL\\Services\\UserService.cs",
+              "RelativeToolTip": "BLL\\Services\\UserService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-22T05:26:35.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BooksDTO.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\BLL\\DTOs\\BooksDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\BooksDTO.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\BLL\\DTOs\\BooksDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\BooksDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:00:10.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BooksService.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\BLL\\Services\\BooksService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\BooksService.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\BLL\\Services\\BooksService.cs",
+              "RelativeToolTip": "BLL\\Services\\BooksService.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T11:01:07.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BorrowService.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\BLL\\Services\\BorrowService.cs",
+              "RelativeDocumentMoniker": "BLL\\Services\\BorrowService.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\BLL\\Services\\BorrowService.cs",
+              "RelativeToolTip": "BLL\\Services\\BorrowService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:57:48.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\UserDTO.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\BLL\\DTOs\\UserDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\UserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:09:35.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BorrowRepo.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\Repos\\BorrowRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Repos\\BorrowRepo.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\Repos\\BorrowRepo.cs",
+              "RelativeToolTip": "DAL\\Repos\\BorrowRepo.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAA7wA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:55:41.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BooksContext.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\EF\\BooksContext.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\BooksContext.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\EF\\BooksContext.cs",
+              "RelativeToolTip": "DAL\\EF\\BooksContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:43:29.061Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Books.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\EF\\Books.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Books.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\EF\\Books.cs",
+              "RelativeToolTip": "DAL\\EF\\Books.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:41:30.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\EF\\User.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\User.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\EF\\User.cs",
+              "RelativeToolTip": "DAL\\EF\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:51:35.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IRepo.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeDocumentMoniker": "DAL\\Interfaces\\IRepo.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\Interfaces\\IRepo.cs",
+              "RelativeToolTip": "DAL\\Interfaces\\IRepo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:54:10.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\BookBorrow\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookBorrow\\Controllers\\BooksController.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\BookBorrow\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookBorrow\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:56:48.265Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\BookBorrow\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BookBorrow\\Controllers\\UserController.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\BookBorrow\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BookBorrow\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:08:33.967Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BorrowController.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\BookBorrow\\Controllers\\BorrowController.cs",
+              "RelativeDocumentMoniker": "BookBorrow\\Controllers\\BorrowController.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\BookBorrow\\Controllers\\BorrowController.cs",
+              "RelativeToolTip": "BookBorrow\\Controllers\\BorrowController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:00:54.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BorrowDTO.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\BLL\\DTOs\\BorrowDTO.cs",
+              "RelativeDocumentMoniker": "BLL\\DTOs\\BorrowDTO.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\BLL\\DTOs\\BorrowDTO.cs",
+              "RelativeToolTip": "BLL\\DTOs\\BorrowDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwA0AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:56:36.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Borrow.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\EF\\Borrow.cs",
+              "RelativeDocumentMoniker": "DAL\\EF\\Borrow.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\EF\\Borrow.cs",
+              "RelativeToolTip": "DAL\\EF\\Borrow.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA0AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T13:43:33.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DataAccess.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\DataAccess.cs",
+              "RelativeDocumentMoniker": "DAL\\DataAccess.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\DataAccess.cs",
+              "RelativeToolTip": "DAL\\DataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:03:39.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "202501211517261_BookLibrary.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\Migrations\\202501211517261_BookLibrary.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501211517261_BookLibrary.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\Migrations\\202501211517261_BookLibrary.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501211517261_BookLibrary.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T15:17:31.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "202501211434342_book.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\Migrations\\202501211434342_book.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501211434342_book.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\Migrations\\202501211434342_book.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501211434342_book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T14:34:43.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "202501211050103_bookborrow.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\Migrations\\202501211050103_bookborrow.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\202501211050103_bookborrow.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\Migrations\\202501211050103_bookborrow.cs",
+              "RelativeToolTip": "DAL\\Migrations\\202501211050103_bookborrow.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:50:24.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "DAL\\Migrations\\Configuration.cs",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\DAL\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "DAL\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T10:49:43.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Web.config",
+              "DocumentMoniker": "E:\\10th Sem\\.NET\\BookBorrow\\BookBorrow\\Web.config",
+              "RelativeDocumentMoniker": "BookBorrow\\Web.config",
+              "ToolTip": "E:\\10th Sem\\.NET\\BookBorrow\\BookBorrow\\Web.config",
+              "RelativeToolTip": "BookBorrow\\Web.config",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAD4AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-01-21T10:45:02.276Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
